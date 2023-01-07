@@ -1,0 +1,21 @@
+.background {
+    filter: blur(10px);
+}
+
+a {
+color: #0000ee;
+}
+
+@media (prefers-color-scheme: dark) {
+body {
+color: #bbbbbb;
+background: #121212;
+backdrop-filter: blur(10px);
+background-image: url(https://media.discordapp.net/attachments/1017604684317470751/1060572050923733032/20220119_152630.jpg?width=1214&height=683);
+background-size: cover;
+}
+
+a {
+color: #3ea6ff;
+}
+}
