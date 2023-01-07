@@ -8,11 +8,4 @@
 <div id="workarea">
   <div class="position">
 
-<div class="svg-wrapper">
-      <svg height="40" width="150" xmlns="http://www.w3.org/2000/svg">
-        <rect id="shape" height="40" width="150" />
-        <div id="text">
-        <a href=""><span class="spot"></span>COLANAS</a>
-        </div>
-      </svg>
-    </div>
+<span class="spot" href="http://colanas.iptime.org"></span>COLANAS</a>
